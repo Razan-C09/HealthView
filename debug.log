@@ -1,0 +1,6 @@
+[1024/085314.906:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1024/213732.084:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ralha\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\bc69f790-f6aa-41b7-ba69-4a66a560fa0d: The system cannot find the path specified. (0x3)
+[1024/213736.668:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ralha\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\cd4e72d9-15e5-4ddb-80ba-4b1b8de7b6bb: The system cannot find the path specified. (0x3)
+[1024/213740.423:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ralha\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b759bcf9-4d1e-4ede-bf78-ee99e13203d7: The system cannot find the path specified. (0x3)
+[1024/213743.917:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ralha\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d7873f22-d073-4a0b-8138-d09a7acdbcf8: The system cannot find the path specified. (0x3)
+[1024/213745.990:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ralha\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\130e0b33-e7a2-4d56-95f2-e645fcc25117: The system cannot find the path specified. (0x3)

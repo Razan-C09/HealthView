@@ -23,7 +23,7 @@ float: left;
 li a {
     width: 200px;
     display: block;
-    padding: 10px 1px ;
+    padding: 28px 10px ;
     text-decoration: none;
     font-family: Arial;
     color: rgb(75, 75, 75);
@@ -35,7 +35,7 @@ li :hover {
     text-transform: uppercase;
 }
 
-.logo img{
+.logo img {
     position: absolute;
     margin-top: 5px;
     margin-left: 10px;
@@ -80,4 +80,98 @@ li :hover {
     font-size: 100;
     padding: 10px;
     color: orange;
+}
+
+.boxcontainer{
+position: absolute;
+width: 180px;
+height: 50px;
+left: 1055px;
+top: -247px;
+
+background: #B5E0D3;
+border-radius: 35.5px;
+
+}
+/* 
+.doctor{
+position: absolute;
+width: 1448px;
+height: 200px;
+left: -8px;
+top: 80px;
+
+background: url(doctor.jpg);
+} */
+
+.doctor img {
+    height: 200px;
+    width: 1275px;
+}
+
+.text {
+    color:rgb(75, 75, 189);
+    text-align: center;
+}
+
+
+.pill img {
+    
+position: absolute;
+width: 300px;
+height: 180px;
+left: 850px;
+top: 350px;
+border-radius: 148.5px;
+
+}
+
+* {box-sizing: border-box;}
+
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+
+.btn {
+  background-color: dodgerblue;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.login {
+    right: 1000px;
+    right: 500px; 
+    color: lightcoral;
+    text-align: right;
 }
